@@ -26,7 +26,7 @@ export default function Profile() {
                 Hello {account.name ? account.name : account.username}
             </Text>
             <Text style={styles.userMessage} >
-                Check out poular movies in {account.countryName} on the Movies Tab
+                Check out popular movies in {account.countryName} on the Movies Tab
                 and make your own Watch List !
             </Text>
             <View style={styles.buttonContainer} >
