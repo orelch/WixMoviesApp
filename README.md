@@ -1,7 +1,7 @@
 # WixMoviesApp
 
 ## Requirements: 
-1. You need to have Node.js installed
+1. You need to have Node.js installed.
 
 ## Instructions to run:
 1. Clone the repository to your computer.
