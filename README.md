@@ -5,7 +5,7 @@
 
 ## Instructions to run:
 1. Clone the repository to your computer.
-2. Open the terminal on the project's folder.
+2. Open the terminal on the project's directory.
 3. Run `npm install` to install all of the required dependencies.
 4. Run `npx expo start` to start the expo development server.
 5. You can run the app on your phone or a simulator:
