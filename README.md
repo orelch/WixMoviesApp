@@ -1,4 +1,6 @@
 # WixMoviesApp
+Made By: Orel Chertkow
+The app was tested on my mobile phone (Samsung Galaxy S9+) as well as on an iPhone 14 Pro Max simulator using Xcode
 
 ## Requirements: 
 1. You need to have Node.js installed.
