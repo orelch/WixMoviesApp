@@ -1,5 +1,6 @@
 {
   "expo": {
+    "scheme": "wix-movies-app",
     "name": "WixMoviesApp",
     "slug": "WixMoviesApp",
     "version": "1.0.0",
