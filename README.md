@@ -9,6 +9,6 @@
 3. Run `npm install` to install all of the required dependencies.
 4. Run `npx expo start` to start the expo development server.
 5. You can run the app on your phone or a simulator:
-   * Mobile Phone - Using Expo Go app and scanning the QR code shown in the terminal.
+   * Mobile Phone - Download and open the Expo Go app and scan the QR code shown in the terminal.
    * ios simulator - Start the simulator and press `i` in the terminal to open the app - the simulator will open expo and run the app.
    * android emulator - Start the emulator and press `a` in the terminal to open the app - the emulator will open expo and run the app.
