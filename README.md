@@ -1,6 +1,14 @@
 # WixMoviesApp
 Made By: Orel Chertkow  
 
+An app created from scratch as a qualification project for a Wix react native position - **Successfully Passed**.
+
+I also added additional depth and features in addition to the base requirements:
+1. A user can log in to his TMDB account on the app.
+2. A user can manage his TMDB account's watch list through the app.
+
+The app, using TMDB's API, lets the user log in to his TMDB account and see a list of popular movies in his country and manage his account’s watch list.
+
 The app was tested on my mobile android phone (Samsung Galaxy S9+) as well as on an iPhone 14 Pro Max ios simulator using Xcode.
 
 ## Requirements: 
